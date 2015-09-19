@@ -1,0 +1,23 @@
+.one {
+	height: 100px;
+	background-color: #424242;
+}
+
+.two {
+	height: 500px;
+	width: 100px;
+  	background-color: #D8D8D8;
+  	float: right;
+}
+
+.three {
+	  height: 500px;
+	  width: 100px;
+  	background-color: #D8D8D8;
+}	
+
+.four {
+	height: 50px;
+   	background-color: #1C1C1C;
+  	margin: -50px 100px 0px 100px;
+}	
